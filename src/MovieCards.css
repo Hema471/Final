@@ -1,0 +1,24 @@
+/* Add this CSS to your stylesheet or component styles */
+
+.add-favorite {
+    background-color: #afc5b0; /* Green color for Add to Favorites */
+    color: black;
+  }
+  
+  .remove-favorite {
+    background-color: #f44336; /* Red color for Remove from Favorites */
+    color: white;
+  }
+  
+  .favorite-button {
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+ .container{
+  color: azure;
+ }
+  
+  
+  
